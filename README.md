@@ -1,0 +1,2 @@
+# fire
+financial independence blog
